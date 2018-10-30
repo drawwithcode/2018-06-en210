@@ -10,7 +10,7 @@
 "car":"4",
 "archetipo":[{"arch_num":"2"},
   {"arch":"berserker path"},
-  {"arch":"totemico fighter"}],
+  {"arch":"totemic fighter"}],
 
 "abilità":[{"num_skill":"2"},
     {"skill":"handle animals","car":"car"},
@@ -42,7 +42,7 @@
 {"skill":"search","car":"int"},
 {"skill":"trick","car":"car"},
   {"skill":"intimidate","car":"car"},
-  {"skill":"intrattenere","car":"car"},
+  {"skill":"delect","car":"car"},
   {"skill":"insight","car":"sag"},
   {"skill":"medicine","car":"sag"},
   {"skill":"nature","car":"sag"},
