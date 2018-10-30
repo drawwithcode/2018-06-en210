@@ -1,15 +1,15 @@
 razza,for,des,cos,int,sag,car
-elfo dei boschi,+0,+2,+0,+0,+1,+0
-elfo oscuro,+0,+2,+0,+0,+0,+1
-elfo alto,+0,+2,+0,+1,+0,+0
-umano,+1,+1,+1,+1,+1,+1
-mezzelfo,+0,+1,+1,+0,+0,+2
-mezzorco,+2,+0,+1,+0,+0,+0
-gnomo delle rocce,+0,+0,+1,+0,+0,+2
-gnomo delle foreste,+0,+1,+0,+0,+0,+2
-nano delle colline,+0,+0,+2,+0,+0,+1
-nano delle montagne,+1,+0,+2,+0,+0,+0
+wooden elf,+0,+2,+0,+0,+1,+0
+dark elf ,+0,+2,+0,+0,+0,+1
+elf alto,+0,+2,+0,+1,+0,+0
+human,+1,+1,+1,+1,+1,+1
+half elf,+0,+1,+1,+0,+0,+2
+half ogre,+2,+0,+1,+0,+0,+0
+gnome of the rocks,+0,+0,+1,+0,+0,+2
+gnome of the forsets,+0,+1,+0,+0,+0,+2
+hills dwarf+0,+0,+2,+0,+0,+1
+mountain dwarf ,+1,+0,+2,+0,+0,+0
 tiefling,+0,+0,+0,+1,+0,+2
-halfling piedelesto,+0,+2,+0,+0,+1,+0
-halfling tozzo,+0,+2,+1,+0,+0,+0
-dragonide,+2,+0,+0,+0,+0,+1
+fastfoot halfling ,+0,+2,+0,+0,+1,+0
+stocky halfling ,+0,+2,+1,+0,+0,+0
+half dragon,+2,+0,+0,+0,+0,+1

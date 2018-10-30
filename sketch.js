@@ -92,7 +92,7 @@ function scegliclasse(){
    cart2=image(img2,windowWidth/2-225,200,180,500)
 
   nome=cl.classe[scelta].nome
-  text("classe: "+nome,windowWidth/2+100,350)
+  text("class: "+nome,windowWidth/2+100,350)
   forza=results[cl.classe[scelta].for]
   text('for:'+forza,windowWidth/2-175,350)
 
@@ -139,14 +139,14 @@ if(thisarch!=everyarch){  for(j=0;j<cl.classe[scelta].abilità[0].num_skill;j++)
     console.log(thisarch)
 
     text(cl.classe[scelta].archetipo[thisarch].arch,windowWidth/2+75,450)
-    text("archetipo:",windowWidth/2+75,420)
-      text("abilità:",windowWidth/2+75,480)
+    text("archetype:",windowWidth/2+75,420)
+      text("skills:",windowWidth/2+75,480)
     // sceglirazza()
     //
 
-         text("razza: "+race[scelta_rz]['razza'],windowWidth/2+75,390)
+         text("race: "+race[scelta_rz]['razza'],windowWidth/2+75,390)
 textSize(30)
-     text("classe: "+nome,windowWidth/2+100,350)
+     text("class: "+nome,windowWidth/2+100,350)
 
     // // console.log(cl.classe[scelta].archetipo[thisarch].arch)
 }
@@ -156,14 +156,14 @@ function sceglirazza()
  {race=rz.getObject()
 
          cart=image(img2,windowWidth/2-25,200,500,500)
-         text("classe: "+nome,windowWidth/2+100,350)
+         text("class: "+nome,windowWidth/2+100,350)
 
   if(scelta_rz!=14&& mouseX>windowWidth/2+50 &&mouseX<windowWidth/2+200){scelta_rz++}
   else{scelta_rz=0}
     cart2=image(img2,windowWidth/2-75,260,50,400)
   // for(var r.log(race[scelta]['razza'])
   textSize(20)
-    text("razza: "+race[scelta_rz]['razza'],windowWidth/2+75,420)
+    text("race: "+race[scelta_rz]['razza'],windowWidth/2+75,420)
     text(race[scelta_rz]['for'],windowWidth/2-65,350)
     text(race[scelta_rz]['des'],windowWidth/2-65,400)
     text(race[scelta_rz]['cos'],windowWidth/2-65,450)
