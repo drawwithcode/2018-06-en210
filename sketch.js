@@ -192,7 +192,7 @@ console.log(scelta_rz)
 
                results.sort(function(a, b){return b-a})
             //
-            // scegliclasse()
+             scegliclasse()
 
   }console.log(results)}
   function windowResized(){
